@@ -1,0 +1,19 @@
+{
+    "name": "Spades.Unity",
+    "rootNamespace": "Spades.Unity",
+    "references": [
+        "GUID:202a45c9957ed7b41860bf8a2bfa4453",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

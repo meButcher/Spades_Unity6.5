@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7460f9215e455bb4e9071253ec2e4762, type: 3}
+  m_Name: LayoutSettings
+  m_EditorClassIdentifier: Spades.Unity::Spades.Unity.Bootstrap.LayoutSettings
+  CardSize: {x: 104, y: 148}
+  CardCornerRadius: 10
+  SeatRadiusX: 700
+  SeatRadiusY: 360
+  TrickRadius: 135
+  HandSpacing: 74
+  HandFanAngle: 12
+  HandArcHeight: 26
+  HoverLift: 34
+  OpponentCardSpacing: 15
+  OpponentCardScale: 0.62
+  DealDuration: 0.32
+  DealStagger: 0.035
+  PlayDuration: 0.3
+  PlayArcHeight: 42
+  TrickCollectDuration: 0.34
+  TrickHoldDuration: 0.45
+  BidRevealDuration: 0.22
+  DrawRevealDuration: 0.25
+  ScoreCountDuration: 0.7
+  HoverDuration: 0.11
+  ShakeDuration: 0.28
+  ShakeAmplitude: 14
+  BotThinkDelay: 0.32
+  TableColor: {r: 0.1, g: 0.3, b: 0.2, a: 1}
+  TableEdgeColor: {r: 0.07, g: 0.21, b: 0.14, a: 1}
+  CardFaceColor: {r: 1, g: 1, b: 1, a: 1}
+  CardBackColor: {r: 0.16, g: 0.26, b: 0.48, a: 1}
+  CardBackPattern: {r: 0.3, g: 0.44, b: 0.72, a: 1}
+  PanelColor: {r: 0.09, g: 0.11, b: 0.15, a: 0.96}
+  AccentColor: {r: 0.98, g: 0.76, b: 0.24, a: 1}
+  TextColor: {r: 0.93, g: 0.95, b: 0.97, a: 1}
+  MutedTextColor: {r: 0.62, g: 0.67, b: 0.74, a: 1}
+  IllegalTint: {r: 0.55, g: 0.55, b: 0.58, a: 1}
